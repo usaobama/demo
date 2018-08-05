@@ -1,1 +1,1 @@
-# MacOS images
+# Demo project
